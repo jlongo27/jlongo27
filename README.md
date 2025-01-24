@@ -12,4 +12,4 @@ ________________________________________________________________________________
 
 👨‍💻 [My Portfolio](https://joselongo.com/)
 
-[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlongo27)](https://github.com/jlongo27/github-readme-stats)
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlongo27&show_icons=true&bg_color=00000000)
