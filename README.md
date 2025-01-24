@@ -3,9 +3,11 @@
 
 <p>I want to focus on creating user experiences that are both inclusive and accessible, drawing from my background in customer service to really understand people’s needs. I’m new to coding, but I’ve discovered that I really enjoy it and want to keep learning so I can better complement my knowledge in user experience and research</p>
 
--✈️ I love traveling, which always inspires new ideas
--🏋️ I enjoy going to the gym
--🎭 Musical theatre fan
+<ul>
+ <li>✈️ I love traveling, which always inspires new ideas</li>
+ <li>🏋️ I enjoy going to the gym</li>
+ <li>🎭 Musical theatre fan</li>
+</ul>
 
 ______________________________________________________________________________________
 
