@@ -8,7 +8,6 @@
  <li>🏋️ I enjoy going to the gym</li>
  <li>🎭 Musical theatre fan</li>
 </ul>
-______________________________________________________________________________________
 
 👨‍💻 [My Portfolio](https://joselongo.com/)
 
