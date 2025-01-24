@@ -1,5 +1,5 @@
 ## Hello!👋
-### I am currently pursuing a degree in Human Systems Engineering with a concentration in User Experience. I have an extensive background in customer service and Retail Management, which has provided me with great insights into customer behavior and problem-solving
+<p>I am currently pursuing a degree in Human Systems Engineering with a concentration in User Experience. I have an extensive background in customer service and Retail Management, which has provided me with great insights into customer behavior and problem-solving skills</p>
 
 <!--
 **jlongo27/jlongo27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
